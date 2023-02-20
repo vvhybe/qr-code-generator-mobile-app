@@ -12,7 +12,11 @@
     "expo": "~47.0.12",
     "expo-status-bar": "~1.4.2",
     "react": "18.1.0",
-    "react-native": "0.70.5"
+    "react-native": "0.70.5",
+    "react-native-qrcode-svg": "^6.2.0",
+    "react-native-root-toast": "^3.3.1",
+    "react-native-svg": "13.4.0",
+    "expo-media-library": "~15.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
