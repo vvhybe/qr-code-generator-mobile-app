@@ -26,6 +26,7 @@ This app was developed using the following technologies:
 - react-native-qrcode-svg
 - react-native-root-toast
 - expo-media-library
+- expo-file-system
 
 # To get started with this app, you can follow these steps:
 
