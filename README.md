@@ -4,6 +4,7 @@
   <p align="center">
     <img alt="GitHub License" src="https://img.shields.io/github/license/whybe7/QRCodeGenerator">
     <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/whybe7/QRCodeGenerator">
+    <img alt="Signature" src="https://img.shields.io/badge/signature-YB-green">
   </p>
 	<p>
 		<b>This is a simple React Native app that allows users to generate QR codes from a text input and save them to their device's gallery.</b>
