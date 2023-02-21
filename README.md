@@ -4,6 +4,7 @@
   <p align="center">
     <img alt="GitHub License" src="https://img.shields.io/github/license/whybe7/QRCodeGenerator">
     <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/whybe7/QRCodeGenerator">
+    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/whybe7/QRCodeGenerator">
     <img alt="Signature" src="https://img.shields.io/badge/signature-YB-green">
   </p>
 	<p>
