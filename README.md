@@ -2,9 +2,10 @@
 	<img src="assets/app-logo.png" width="200" height="200">
 	<h1>QR Code Generator</h1>
   <p align="center">
-    <img alt="GitHub License" src="https://img.shields.io/github/license/whybe7/QRCodeGenerator">
-    <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/whybe7/QRCodeGenerator">
-    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/whybe7/QRCodeGenerator">
+    <img alt="GitHub" src="https://img.shields.io/github/license/whybe7/qr-code-generator-mobile-app">
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/whybe7/qr-code-generator-mobile-app">
+    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/whybe7/qr-code-generator-mobile-app">
+    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/downloads/whybe7/qr-code-generator-mobile-app/v1.0.1/total">
     <img alt="Signature" src="https://img.shields.io/badge/signature-YB-green">
   </p>
 	<p>
@@ -54,7 +55,7 @@ If you would like to contribute to this project, you can do so by following thes
 - Submit a pull request back to the original project.
 
 # License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/whybe7/QRCodeGenerator/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/whybe7/qr-code-generator-mobile-app/blob/master/LICENSE) file for details.
 
 
 
