@@ -2,7 +2,7 @@
   "expo": {
     "name": "QRCodeGenerator",
     "slug": "QRCodeGenerator",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -31,7 +31,8 @@
       "infoPlist": {
         "NSPhotoLibraryUsageDescription": "Allow $(PRODUCT_NAME) to access your photos",
         "NSPhotoLibraryAddUsageDescription": "Allow $(PRODUCT_NAME) to save photos"
-      }
+      },
+      "bundleIdentifier": "com.whybe7.QRCodeGenerator"
     },
     "android": {
       "adaptiveIcon": {
